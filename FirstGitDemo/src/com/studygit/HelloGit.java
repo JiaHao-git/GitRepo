@@ -11,6 +11,7 @@ public class HelloGit {
 		showMemory();
 		//新增显示系统属性方法
 		showNativeSystem();
+		//设置了origin等参数之后
 	}
 	
 	public static void showMemory(){
