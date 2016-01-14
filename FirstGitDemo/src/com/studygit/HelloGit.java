@@ -1,11 +1,8 @@
 package com.studygit;
 
-import java.util.Date;
 import java.util.Map.Entry;
 import java.util.Properties;
 import java.util.Set;
-
-import javax.swing.text.html.HTMLDocument.Iterator;
 
 public class HelloGit {
 	public static void main(String[] args) {
